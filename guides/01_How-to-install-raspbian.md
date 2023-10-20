@@ -86,12 +86,12 @@ Flashing an operating system means writing it to the microSD card, making it rea
 
 8. **Click Write:** After customizing the settings, click "Save", than click "Yes" button to apply customization.
 ![image](../resources/images/RPI-imager-09.png)<br><br>
- The Raspberry Pi Imager will ask for a confirmation for flashing process. Click "Yes".
+ The Raspberry Pi Imager will ask for a confirmation for the flashing process. Click "Yes".
 ![image](../resources/images/RPI-imager-10.png)<br><br>
  The Raspberry Pi Imager will complete the flashing process and write the customized Raspbian OS to the microSD card.
 
 
-9. **Done** With these steps, you have successfully flashed the Raspbian OS to the microSD card and customized the installation settings according to your preferences.
+9. **Done:** With these steps, you have successfully flashed the Raspbian OS to the microSD card and customized the installation settings according to your preferences.
 
     ![image](../resources/images/RPI-imager-12.png)<br><br>
 
