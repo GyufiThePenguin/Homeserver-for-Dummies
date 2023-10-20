@@ -87,7 +87,7 @@ Please keep in mind that this tutorial primarily focuses on Raspberry Pi and PC/
 
 <br><br><br>
 
-# Now that you know this, you have few choises:
+# Now that you know this, you have the following choises:
 - I already have an installed Raspberry Pi -> In that case, you can skip a few steps, go to [Milestone 02 - Basic Services](./MILESTONE_02-Basic-services.md)
 - I have an unused PC/Laptop and already have Ubuntu (or other Debian based OS) installed -> Great, go to [Milestone 02 - Basic services]()
 - I have a Raspberry PI, but nothing, not even the operating system is installed -> No worries, follow [How to install Raspbian](./01_How-to-install-raspbian.md)
