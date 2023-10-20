@@ -114,7 +114,7 @@ You can now connect your Raspberry Pi to a monitor, keyboard, and mouse to start
 
 You've successfully completed the installation of Raspbian on your Raspberry Pi! With the operating system ready to go, you're now set to explore various projects and server applications. The next step is to power on your Raspberry Pi and perform the initial setup, which includes configuring your language, time zone, and creating a password for the default user 'pi.'
 
-To continue your journey, head over to the next tutorial page: [LINK_TO_NEXT_TUTORIAL_PAGE](add the link to the next tutorial page here). There, you'll find more guidance on unleashing the potential of your Raspberry Pi for your specific needs.
+To continue your journey, head over to the next tutorial page: [Milestone 02 - First Steps](./MILESTONE_02-First-steps.md). There, you'll find more guidance on unleashing the potential of your Raspberry Pi for your specific needs.
 
 <br><br><br><br>
 
