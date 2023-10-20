@@ -105,7 +105,7 @@ Once the image is written to the microSD card, insert it into your Raspberry Pi.
 
 You can now connect your Raspberry Pi to a monitor, keyboard, and mouse to start the initial setup. Plug in the power supply, and turn on your Raspberry Pi.
 
-**Note:** If you prefer not to connect your Raspberry Pi to a monitor, keyboard, and mouse or you don't have the necessary hardware available, you have the option to set up your Raspberry Pi in headless mode. "Headless" means you can configure and control your Raspberry Pi without a monitor and interact with it remotely using another computer or device. We will cover the headless setup in a later section of this tutorial. But if you choose to do so now, follow [How to enable VNC Server on Raspbian over SSH](./02_How-to-enable-VNC-Server-on-Raspbian-over-SSH.md).
+>**Note:** If you prefer not to connect your Raspberry Pi to a monitor, keyboard, and mouse or you don't have the necessary hardware available, you have the option to set up your Raspberry Pi in headless mode. "Headless" means you can configure and control your Raspberry Pi without a monitor and interact with it remotely using another computer or device. We will cover the headless setup in a later section of this tutorial. But if you choose to do so now, follow >[How to enable VNC Server on Raspbian over SSH](./02_How-to-enable-VNC-Server-on-Raspbian-over-SSH.md).
 
 
 ## Step 5: Initial Setup
