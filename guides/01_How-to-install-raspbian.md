@@ -100,9 +100,6 @@ Flashing an operating system means writing it to the microSD card, making it rea
 
 Once the image is written to the microSD card, insert it into your Raspberry Pi.
 
-## Step 4: Power On Your Raspberry Pi
-
-Connect your Raspberry Pi to a monitor, keyboard, and mouse. Plug in the power supply and turn on your Raspberry Pi.
 
 ## Step 4: Power On Your Raspberry Pi
 
