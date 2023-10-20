@@ -30,7 +30,7 @@ In STEP1, I will ask a question: Do you have a xy?
 ## Installation
 
 ### Follow the guide from the beginning
- To begin the tutorial from the beginning, ![>> Click Here <<](./guides/MILESTONE_01-Choosing-computer-type.md)
+ To begin the tutorial from the beginning, [>> Click Here <<](./guides/MILESTONE_01-Choosing-computer-type.md)
 
 <br>
 
