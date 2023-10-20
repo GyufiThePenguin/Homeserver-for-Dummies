@@ -92,3 +92,5 @@ Please keep in mind that this tutorial primarily focuses on Raspberry Pi and PC/
 - I have an unused PC/Laptop and already have Ubuntu (or other Debian based OS) installed -> Great, [INSERT GUIDE HERE]()
 - I have a Raspberry PI, but nothing, not even the operating system is installed -> No worries, follow [How to install Raspbian](./01_How-to-install-raspbian.md)
 - I have an unused PC/Laptop. -> Awesome, please follow [How to install Ubuntu](./01_How-to-install-ubuntu.md)
+
+<br><br><br><br>
