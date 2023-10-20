@@ -1,4 +1,4 @@
-# Milestone 02 - Basic Services 🛠️
+# Milestone 02 - First Steps 🚶
 
 Welcome to Milestone 02 of your "Home Server for Dummies" journey! You've made it past the initial setup and installation phase, and now it's time to explore the world of basic services that can turn your humble Raspberry Pi or Ubuntu server into a versatile powerhouse. But wait, you might be wondering why this milestone looks a bit like a fruit salad – that's because we're about to mix apples and oranges! Don't worry, it's not a culinary experiment but a tech one, and it makes perfect sense.
 
