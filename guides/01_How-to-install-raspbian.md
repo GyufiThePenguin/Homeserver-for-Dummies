@@ -108,12 +108,6 @@ You can now connect your Raspberry Pi to a monitor, keyboard, and mouse to start
 >**Note:** If you prefer not to connect your Raspberry Pi to a monitor, keyboard, and mouse or you don't have the necessary hardware available, you have the option to set up your Raspberry Pi in headless mode. "Headless" means you can configure and control your Raspberry Pi without a monitor and interact with it remotely using another computer or device. We will cover the headless setup in a later section of this tutorial. But if you choose to do so now, follow >[How to enable VNC Server on Raspbian over SSH](./02_How-to-enable-VNC-Server-on-Raspbian-over-SSH.md).
 
 
-## Step 5: Initial Setup
-
-Follow the on-screen instructions to complete the initial setup of Raspbian. This typically includes configuring your language, time zone, and creating a password for the default user 'pi.'
-
-Congratulations! You have successfully installed Raspbian on your Raspberry Pi. You are now ready to explore and use your Raspberry Pi for various projects and server applications.
-
 <br><br>
 
 # Well Done! 👏
