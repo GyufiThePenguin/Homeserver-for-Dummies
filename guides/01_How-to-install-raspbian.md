@@ -12,7 +12,7 @@ Before you begin, ensure you have the following:
 - A computer with an SD card reader
 - An internet connection
 
-## Step 1: Download Raspberry Pi Imager
+## Step 1: Download Raspberry Pi Imager ⬇️
 Raspberry Pi Imager is the quick and easy way to install Raspberry Pi OS and other operating systems to a microSD card, ready to use with your Raspberry Pi.
 
 To download it, <a href="https://rptl.io/imager" target="_blank">Click here</a>, or head to: <a href="https://www.raspberrypi.com" target="_blank">www.raspberrypi.com</a> -> Software -> Install Raspberry Pi OS using Raspberry Pi Imager.
@@ -96,12 +96,12 @@ Flashing an operating system means writing it to the microSD card, making it rea
     ![image](../resources/images/RPI-imager-12.png)<br><br>
 
 
-## Step 3: Insert the MicroSD Card
+## Step 3: Insert the MicroSD Card 💾
 
 Once the image is written to the microSD card, insert it into your Raspberry Pi.
 
 
-## Step 4: Power On Your Raspberry Pi
+## Step 4: Power On Your Raspberry Pi ⚡
 
 You can now connect your Raspberry Pi to a monitor, keyboard, and mouse to start the initial setup. Plug in the power supply, and turn on your Raspberry Pi.
 
